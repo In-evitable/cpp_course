@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\STORAGE\C++\My code\Chapter 8\8.2 - Find Element in Array\build\CMakeFiles\0129839a961834e2272e95d049542c33\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\STORAGE\C++\My code\Chapter 8\8.2 - Find Element in Array\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\STORAGE\C++\My code\Chapter 8\8.2 - Find Element in Array\build\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F652CC5E-59D6-33AB-BC18-0924D1FB2D56}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

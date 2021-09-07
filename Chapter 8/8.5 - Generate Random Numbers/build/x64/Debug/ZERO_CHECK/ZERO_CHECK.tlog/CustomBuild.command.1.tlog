@@ -1,0 +1,10 @@
+^D:\STORAGE\C++\MY CODE\CHAPTER 8\8.5 - GENERATE RANDOM NUMBERS\BUILD\CMAKEFILES\4E796DABA2F88902AABB1BE57C7EE10E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/STORAGE/C++/My code/Chapter 8/8.5 - Generate Random Numbers" "-BD:/STORAGE/C++/My code/Chapter 8/8.5 - Generate Random Numbers/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/STORAGE/C++/My code/Chapter 8/8.5 - Generate Random Numbers/build/random_demo.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

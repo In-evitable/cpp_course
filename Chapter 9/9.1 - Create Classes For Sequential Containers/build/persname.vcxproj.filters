@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\STORAGE\C++\My code\Chapter 9\9.1 - Create Classes For Sequential Containers\persname.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\STORAGE\C++\My code\Chapter 9\9.1 - Create Classes For Sequential Containers\pntest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\STORAGE\C++\My code\Chapter 9\9.1 - Create Classes For Sequential Containers\persname.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\STORAGE\C++\My code\Chapter 9\9.1 - Create Classes For Sequential Containers\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A79CA203-A227-3028-B527-A6756C533DCD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{117BBB58-429F-3170-8D33-D7ABA72B5E47}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

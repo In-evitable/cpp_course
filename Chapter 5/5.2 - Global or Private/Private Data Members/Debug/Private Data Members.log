@@ -1,0 +1,3 @@
+﻿  list5.22.cpp
+D:\STORAGE\C++\My code\Chapter 5\5.2 - Global or Private\Private Data Members\list5.22.cpp(18,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Private Data Members.vcxproj -> D:\STORAGE\C++\My code\Chapter 5\5.2 - Global or Private\Debug\Private Data Members.exe

@@ -1,0 +1,11 @@
+1. Attribute - The data for a class that maintain the current state of an object. The state of an object is determined by the current contents of all the attributes. Attributes should be hidden from users of the object. Access to attributes should be defined through an object's interface.
+2. Object - An object is a something that exists and is identifiable. An object exhibits behavior, maintains state, and has traits. An object can be manipulated. Some examples of objects are telephones, automobiles, buildings, animals, and computers. An object is an instance of a class.
+3. Class - A class is synonymous with type. A class specifies the traits (data) and behavior that an object can exhibit. A class itself does not exist; it is merely a description of an object. A blueprint for a building is analogous to a class and the building itself is the object. A class can be considered a template for the creation of objects.
+
+4 Inheritance - This is the relationship of classes. There is an explicit is-a relationship between classes. For example, an automobile is-a vehicle, a zebra is-a mammal, a flower is-a plant, and so on and so forth. Classes with more specialization inherit from classes with more generalization.
+5 Encapsulation - Encompasses the interface and abstraction of a class. A class that is encapsulated is said to be cohesive or self-contained. 
+6 Polymorphism - Literally means many (poly) forms (morph). An object exhibits polymorphic behavior based on its stance in an inheritance hierarchy. If two (or more) objects have the same interface, but exhibit different behaviors, they are said to be polymorphic.
+7 Interface - This is the visible functionality of a class. The interface is the contract that an object makes with users of an object. An interface emphasizes a class's abstraction. Users manipulate an object through its interface.
+8 Implementation - The internal functionality and attributes of a class. A class's implementation is hidden from users of the class. Users should manipulate an object through its interface without regard to the object's implementation.
+9 Abstraction - This is the generalization of a class that distinguishes it from other classes. An abstraction emphasizes the interface of a class, providing a clean separation of its implementation.
+

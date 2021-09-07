@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\STORAGE\C++\My code\Chapter 8\8.5 - Generate Random Numbers\build\CMakeFiles\4e796daba2f88902aabb1be57c7ee10e\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\STORAGE\C++\My code\Chapter 8\8.5 - Generate Random Numbers\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\STORAGE\C++\My code\Chapter 8\8.5 - Generate Random Numbers\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4A3EF8DA-7FDD-3A12-812C-549D197D86E5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:\\STORAGE\\MinGW\\include",
+                "D:\\STORAGE\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++",
+                "D:\\STORAGE\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32\\bits",
+                "D:\\STORAGE\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32",
+                "D:/STORAGE/MinGW/lib/gcc/mingw32/6.3.0/include",
+                "D:/STORAGE/MinGW/lib/gcc/mingw32/6.3.0/include/c++"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerArgs": [],
+            "compilerPath": "D:/STORAGE/MinGW/bin/g++.exe",
+            "browse": {
+                "path": [
+                    "D:/STORAGE/MinGW/include",
+                    "D:/STORAGE/MinGW",
+                    "D:/STORAGE/MinGW/lib/gcc/mingw32/6.3.0/include/c++",
+                    "D:/STORAGE/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32\\bits",
+                    "D:/STORAGE/MinGW/lib/gcc/mingw32/6.3.0/include/c++/mingw32",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}

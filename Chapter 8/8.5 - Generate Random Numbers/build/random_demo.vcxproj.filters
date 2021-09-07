@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\STORAGE\C++\My code\Chapter 8\8.5 - Generate Random Numbers\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\STORAGE\C++\My code\Chapter 8\8.5 - Generate Random Numbers\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E9BE420B-1375-3127-BAA2-7D077CAE7C8F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

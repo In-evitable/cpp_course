@@ -1,0 +1,44 @@
+thing MotorVehicle descendantOf Vehicle
+    exposed service powerSwitch
+    exposed service accelerate
+    exposed service decelerate
+    inherit part speed
+    inherit part isMoving
+    inherit part available
+    exposed service getSpeed
+    exposed service isMoving
+    exposed service getAvailable
+    exposed service setSpeed
+    exposed service setAvailable
+    exposed service steering
+
+
+thing Truck descendantOf MotorVehicle
+    exposed service powerSwitch
+    exposed service accelerate
+    exposed service decelerate
+    inherit part speed
+    inherit part isMoving
+    inherit part available
+    exposed service getSpeed
+    exposed service isMoving
+    exposed service getAvailable
+    exposed service setSpeed
+    exposed service setAvailable
+    exposed service steering
+    exposed service fourWheelDrive
+
+
+Truck aTruck := create Truck.
+aTruck->setSpeed(55).
+Vehicle baseVehicle := aTruck.
+integer speed := baseVehicle->getSpeed.
+Print(speed).
+Print(aTruck->getSpeed).
+MotorVehicle anotherVehicle := create MotorVehicle.
+anotherVehicle->setSpeed(40).
+baseVehicle := anotherVehicle.
+Print(baseVehicle->getSpeed).
+baseVehicle->setSpeed(85).
+Print(anotherVehicle->getSpeed).
+

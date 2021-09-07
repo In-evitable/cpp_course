@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\STORAGE\C++\My code\Chapter 8\8.4 - LSearch Demo\build\CMakeFiles\267a29dfad29c8280dbd905f64d3f704\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\STORAGE\C++\My code\Chapter 8\8.4 - LSearch Demo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\STORAGE\C++\My code\Chapter 8\8.4 - LSearch Demo\build\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{41FCC407-EAFF-3EC5-B071-C0A3903B4ACC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^D:\STORAGE\C++\MY CODE\CHAPTER 8\8.4 - LSEARCH DEMO\BUILD\CMAKEFILES\267A29DFAD29C8280DBD905F64D3F704\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/STORAGE/C++/My code/Chapter 8/8.4 - LSearch Demo" "-BD:/STORAGE/C++/My code/Chapter 8/8.4 - LSearch Demo/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/STORAGE/C++/My code/Chapter 8/8.4 - LSearch Demo/build/lsearch_demo.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

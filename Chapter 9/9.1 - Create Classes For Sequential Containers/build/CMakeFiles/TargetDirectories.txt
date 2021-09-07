@@ -1,0 +1,9 @@
+D:/STORAGE/C++/My code/Chapter 9/9.1 - Create Classes For Sequential Containers/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/STORAGE/C++/My code/Chapter 9/9.1 - Create Classes For Sequential Containers/build/CMakeFiles/Experimental.dir
+D:/STORAGE/C++/My code/Chapter 9/9.1 - Create Classes For Sequential Containers/build/CMakeFiles/Continuous.dir
+D:/STORAGE/C++/My code/Chapter 9/9.1 - Create Classes For Sequential Containers/build/CMakeFiles/Nightly.dir
+D:/STORAGE/C++/My code/Chapter 9/9.1 - Create Classes For Sequential Containers/build/CMakeFiles/persname.dir
+D:/STORAGE/C++/My code/Chapter 9/9.1 - Create Classes For Sequential Containers/build/CMakeFiles/PACKAGE.dir
+D:/STORAGE/C++/My code/Chapter 9/9.1 - Create Classes For Sequential Containers/build/CMakeFiles/RUN_TESTS.dir
+D:/STORAGE/C++/My code/Chapter 9/9.1 - Create Classes For Sequential Containers/build/CMakeFiles/ALL_BUILD.dir
+D:/STORAGE/C++/My code/Chapter 9/9.1 - Create Classes For Sequential Containers/build/CMakeFiles/ZERO_CHECK.dir

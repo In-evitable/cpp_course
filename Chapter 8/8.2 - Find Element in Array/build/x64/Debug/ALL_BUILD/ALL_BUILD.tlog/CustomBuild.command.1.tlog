@@ -1,0 +1,10 @@
+^D:\STORAGE\C++\MY CODE\CHAPTER 8\8.2 - FIND ELEMENT IN ARRAY\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/STORAGE/C++/My code/Chapter 8/8.2 - Find Element in Array" "-BD:/STORAGE/C++/My code/Chapter 8/8.2 - Find Element in Array/build" --check-stamp-file "D:/STORAGE/C++/My code/Chapter 8/8.2 - Find Element in Array/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\STORAGE\C++\My code\Chapter 8\8.3 - Locate an Element\build\CMakeFiles\7342f747a05dc927af19189cd422d84f\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\STORAGE\C++\My code\Chapter 8\8.3 - Locate an Element\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\STORAGE\C++\My code\Chapter 8\8.3 - Locate an Element\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A7A0FC2F-F87B-3C9F-86C1-4956FAF35B65}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

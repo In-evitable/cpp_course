@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\STORAGE\C++\My code\Chapter 8\8.2 - Find Element in Array\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\STORAGE\C++\My code\Chapter 8\8.2 - Find Element in Array\compare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\STORAGE\C++\My code\Chapter 8\8.2 - Find Element in Array\compare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\STORAGE\C++\My code\Chapter 8\8.2 - Find Element in Array\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{66524C43-BB36-3DAE-A393-0C672C1630B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EB7401E2-50A3-3C76-B572-A3ECD2CFDAF0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

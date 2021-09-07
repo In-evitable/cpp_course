@@ -1,0 +1,5 @@
+﻿  list5_92.cpp
+D:\STORAGE\C++\My code\Chapter 5\5.9 - Virtual and Non-Virtual Classes\Multiple Inheritance\list5_92.cpp(41,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\STORAGE\C++\My code\Chapter 5\5.9 - Virtual and Non-Virtual Classes\Multiple Inheritance\list5_92.cpp(41,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\STORAGE\C++\My code\Chapter 5\5.9 - Virtual and Non-Virtual Classes\Multiple Inheritance\list5_92.cpp(40,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Multiple Inheritance.vcxproj -> D:\STORAGE\C++\My code\Chapter 5\5.9 - Virtual and Non-Virtual Classes\Debug\Multiple Inheritance.exe

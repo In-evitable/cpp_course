@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Listing 6_51.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  list6_51.cpp
+  Templates and Structures.vcxproj -> D:\STORAGE\C++\My code\Chapter 6\6.5 - Templates and Structures\Debug\Templates and Structures.exe

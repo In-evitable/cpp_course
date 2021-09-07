@@ -1,0 +1,6 @@
+﻿  except.cpp
+D:\STORAGE\C++\My code\Chapter 1\Except\Except\Except\except.cpp(9,43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\STORAGE\C++\My code\Chapter 1\Except\Except\Except\except.cpp(66,13): warning C4101: 'ec': unreferenced local variable
+D:\STORAGE\C++\My code\Chapter 1\Except\Except\Except\except.cpp(94,27): warning C5043: 'calculate': exception specification does not match previous declaration
+D:\STORAGE\C++\My code\Chapter 1\Except\Except\Except\except.cpp(9): message : see declaration of 'calculate'
+  Except.vcxproj -> D:\STORAGE\C++\My code\Chapter 1\Except\Except\Debug\Except.exe

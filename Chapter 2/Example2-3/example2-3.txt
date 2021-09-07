@@ -1,0 +1,13 @@
+thing Vehicle
+    exposed service powerSwitch
+    exposed service accelerate
+    exposed service decelerate
+    inherit part speed
+    inherit part isMoving
+    inherit part available
+    exposed service getSpeed
+    exposed service isMoving
+    exposed service getAvailable
+    exposed service setSpeed
+    exposed service setAvailable
+

@@ -1,0 +1,10 @@
+^D:\STORAGE\C++\MY CODE\CHAPTER 9\9.1 - CREATE CLASSES FOR SEQUENTIAL CONTAINERS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/STORAGE/C++/My code/Chapter 9/9.1 - Create Classes For Sequential Containers" "-BD:/STORAGE/C++/My code/Chapter 9/9.1 - Create Classes For Sequential Containers/build" --check-stamp-file "D:/STORAGE/C++/My code/Chapter 9/9.1 - Create Classes For Sequential Containers/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
