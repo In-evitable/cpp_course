@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/STORAGE/C++/My code/Chapter 9/9.4_Compare_Two_Sequences/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
