@@ -7,10 +7,10 @@ using namespace std;
 
 int main()
 {
-    vector <string> MainText;
-    vector <string> TempString;
+    vector<string> MainText;
+    vector<string> TempString;
 
-    vector <string>::iterator i;
+    vector<string>::iterator i;
 
     MainText.push_back("All");
     MainText.push_back("art");
@@ -21,7 +21,7 @@ int main()
     TempString.push_back("quite");
     TempString.push_back("unique");
 
-    i = search (MainText.begin(), MainText.end(), TempString.begin(), TempString.end(), WordCompare());
+    i = search(MainText.begin(), MainText.end(), TempString.begin(), TempString.end(), WordCompare());
 
     if (i == MainText.end())
         cout << "The substring is not found" << endl;
@@ -29,5 +29,4 @@ int main()
         cout << "The substring is found" << endl;
 
     return 0;
-
 }
