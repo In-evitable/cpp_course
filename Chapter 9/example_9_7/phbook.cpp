@@ -21,7 +21,7 @@ PhBook::PhBook(string InLastName, string InFirstName, string InCity, string InAr
     FirstName = InFirstName;
     City = InCity;
     AreaCode = InAreaCode;
-    Phone = InAreaCode;
+    Phone = InPhone;
 }
 
 PhBook::~PhBook() {}

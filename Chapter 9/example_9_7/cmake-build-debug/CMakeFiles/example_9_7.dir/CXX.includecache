@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/STORAGE/C++/My code/Chapter 9/example_9_7/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+functional
+-
+phbook.h
+D:/STORAGE/C++/My code/Chapter 9/example_9_7/phbook.h
+
+D:/STORAGE/C++/My code/Chapter 9/example_9_7/phbook.h
+string
+-
+

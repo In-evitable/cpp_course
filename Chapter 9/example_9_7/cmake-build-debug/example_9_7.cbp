@@ -80,13 +80,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/STORAGE/C++/My code/Chapter 9/example_9_7/PhBook.cpp">
-			<Option target="example_9_7"/>
-		</Unit>
-		<Unit filename="D:/STORAGE/C++/My code/Chapter 9/example_9_7/PhBook.h">
-			<Option target="example_9_7"/>
-		</Unit>
 		<Unit filename="D:/STORAGE/C++/My code/Chapter 9/example_9_7/main.cpp">
+			<Option target="example_9_7"/>
+		</Unit>
+		<Unit filename="D:/STORAGE/C++/My code/Chapter 9/example_9_7/phbook.cpp">
+			<Option target="example_9_7"/>
+		</Unit>
+		<Unit filename="D:/STORAGE/C++/My code/Chapter 9/example_9_7/phbook.h">
 			<Option target="example_9_7"/>
 		</Unit>
 		<Unit filename="D:/STORAGE/C++/My code/Chapter 9/example_9_7/CMakeLists.txt">

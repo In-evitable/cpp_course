@@ -128,30 +128,6 @@ example_9_7/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\example_9_7.dir\build.make CMakeFiles/example_9_7.dir/build
 .PHONY : example_9_7/fast
 
-PhBook.obj: PhBook.cpp.obj
-.PHONY : PhBook.obj
-
-# target to build an object file
-PhBook.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\example_9_7.dir\build.make CMakeFiles/example_9_7.dir/PhBook.cpp.obj
-.PHONY : PhBook.cpp.obj
-
-PhBook.i: PhBook.cpp.i
-.PHONY : PhBook.i
-
-# target to preprocess a source file
-PhBook.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\example_9_7.dir\build.make CMakeFiles/example_9_7.dir/PhBook.cpp.i
-.PHONY : PhBook.cpp.i
-
-PhBook.s: PhBook.cpp.s
-.PHONY : PhBook.s
-
-# target to generate assembly for a file
-PhBook.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\example_9_7.dir\build.make CMakeFiles/example_9_7.dir/PhBook.cpp.s
-.PHONY : PhBook.cpp.s
-
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -176,6 +152,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\example_9_7.dir\build.make CMakeFiles/example_9_7.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+phbook.obj: phbook.cpp.obj
+.PHONY : phbook.obj
+
+# target to build an object file
+phbook.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\example_9_7.dir\build.make CMakeFiles/example_9_7.dir/phbook.cpp.obj
+.PHONY : phbook.cpp.obj
+
+phbook.i: phbook.cpp.i
+.PHONY : phbook.i
+
+# target to preprocess a source file
+phbook.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\example_9_7.dir\build.make CMakeFiles/example_9_7.dir/phbook.cpp.i
+.PHONY : phbook.cpp.i
+
+phbook.s: phbook.cpp.s
+.PHONY : phbook.s
+
+# target to generate assembly for a file
+phbook.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\example_9_7.dir\build.make CMakeFiles/example_9_7.dir/phbook.cpp.s
+.PHONY : phbook.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -185,12 +185,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... example_9_7
-	@echo ... PhBook.obj
-	@echo ... PhBook.i
-	@echo ... PhBook.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... phbook.obj
+	@echo ... phbook.i
+	@echo ... phbook.s
 .PHONY : help
 
 

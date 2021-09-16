@@ -78,29 +78,29 @@ CMakeFiles/example_9_7.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/example_9_7.dir/main.cpp.s"
 	D:\Programs\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\STORAGE\C++\My code\Chapter 9\example_9_7\main.cpp" -o CMakeFiles\example_9_7.dir\main.cpp.s
 
-CMakeFiles/example_9_7.dir/PhBook.cpp.obj: CMakeFiles/example_9_7.dir/flags.make
-CMakeFiles/example_9_7.dir/PhBook.cpp.obj: ../PhBook.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\STORAGE\C++\My code\Chapter 9\example_9_7\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/example_9_7.dir/PhBook.cpp.obj"
-	D:\Programs\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\example_9_7.dir\PhBook.cpp.obj -c "D:\STORAGE\C++\My code\Chapter 9\example_9_7\PhBook.cpp"
+CMakeFiles/example_9_7.dir/phbook.cpp.obj: CMakeFiles/example_9_7.dir/flags.make
+CMakeFiles/example_9_7.dir/phbook.cpp.obj: ../phbook.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\STORAGE\C++\My code\Chapter 9\example_9_7\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/example_9_7.dir/phbook.cpp.obj"
+	D:\Programs\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\example_9_7.dir\phbook.cpp.obj -c "D:\STORAGE\C++\My code\Chapter 9\example_9_7\phbook.cpp"
 
-CMakeFiles/example_9_7.dir/PhBook.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/example_9_7.dir/PhBook.cpp.i"
-	D:\Programs\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\STORAGE\C++\My code\Chapter 9\example_9_7\PhBook.cpp" > CMakeFiles\example_9_7.dir\PhBook.cpp.i
+CMakeFiles/example_9_7.dir/phbook.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/example_9_7.dir/phbook.cpp.i"
+	D:\Programs\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\STORAGE\C++\My code\Chapter 9\example_9_7\phbook.cpp" > CMakeFiles\example_9_7.dir\phbook.cpp.i
 
-CMakeFiles/example_9_7.dir/PhBook.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/example_9_7.dir/PhBook.cpp.s"
-	D:\Programs\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\STORAGE\C++\My code\Chapter 9\example_9_7\PhBook.cpp" -o CMakeFiles\example_9_7.dir\PhBook.cpp.s
+CMakeFiles/example_9_7.dir/phbook.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/example_9_7.dir/phbook.cpp.s"
+	D:\Programs\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\STORAGE\C++\My code\Chapter 9\example_9_7\phbook.cpp" -o CMakeFiles\example_9_7.dir\phbook.cpp.s
 
 # Object files for target example_9_7
 example_9_7_OBJECTS = \
 "CMakeFiles/example_9_7.dir/main.cpp.obj" \
-"CMakeFiles/example_9_7.dir/PhBook.cpp.obj"
+"CMakeFiles/example_9_7.dir/phbook.cpp.obj"
 
 # External object files for target example_9_7
 example_9_7_EXTERNAL_OBJECTS =
 
 example_9_7.exe: CMakeFiles/example_9_7.dir/main.cpp.obj
-example_9_7.exe: CMakeFiles/example_9_7.dir/PhBook.cpp.obj
+example_9_7.exe: CMakeFiles/example_9_7.dir/phbook.cpp.obj
 example_9_7.exe: CMakeFiles/example_9_7.dir/build.make
 example_9_7.exe: CMakeFiles/example_9_7.dir/linklibs.rsp
 example_9_7.exe: CMakeFiles/example_9_7.dir/objects1.rsp

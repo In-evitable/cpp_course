@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/example_9_7.dir/PhBook.cpp.obj"
   "CMakeFiles/example_9_7.dir/main.cpp.obj"
+  "CMakeFiles/example_9_7.dir/phbook.cpp.obj"
   "example_9_7.exe"
   "example_9_7.exe.manifest"
   "example_9_7.pdb"
